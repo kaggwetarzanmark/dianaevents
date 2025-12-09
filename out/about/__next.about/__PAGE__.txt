@@ -1,6 +1,0 @@
-1:"$Sreact.fragment"
-2:I[11764,["/dianaevents/_next/static/chunks/c154648ed655f522.js","/dianaevents/_next/static/chunks/52dad68947a6f1d7.js","/dianaevents/_next/static/chunks/b58c3c80a0cfa577.js"],"AboutPage"]
-3:I[42949,["/dianaevents/_next/static/chunks/13dd16a01ea8a5d0.js","/dianaevents/_next/static/chunks/1f26ce154ba26398.js"],"OutletBoundary"]
-4:"$Sreact.suspense"
-0:{"buildId":"-jtoLsOyGKD-HZeBlwwLC","rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/dianaevents/_next/static/chunks/52dad68947a6f1d7.js","async":true}],["$","script","script-1",{"src":"/dianaevents/_next/static/chunks/b58c3c80a0cfa577.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
-5:null
